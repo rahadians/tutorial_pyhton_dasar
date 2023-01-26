@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="python-3.11.0-docs-pdf-a4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/python-3.11.0-docs-pdf-a4.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

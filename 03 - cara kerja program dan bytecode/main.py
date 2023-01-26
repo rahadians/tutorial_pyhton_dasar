@@ -1,3 +1,3 @@
-print ('Hello world 03');
+print ('Hello world 03')
 
 # ini adalah comment
