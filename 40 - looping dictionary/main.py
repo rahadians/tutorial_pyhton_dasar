@@ -1,4 +1,5 @@
 # Loopig dictionary
+# bisa mengambil 1. key saja, 2. values saja, 3.key dan values, 4.key dan values dalam 1 looping
 
 
 data_dict={
