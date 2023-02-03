@@ -36,7 +36,7 @@ while True :
     tanggalLahir=int(input("Tanggal Lahir (DD): "))
     mahasiswa['lahir']=datetime.datetime(tahunLahir,bulanLahir,tanggalLahir)
 
-
+    # Membuat key random
     KEY= ''.join(random.choice(string.ascii_uppercase) for i in range(6))
 
     data_mahasiswa.update({KEY:mahasiswa})

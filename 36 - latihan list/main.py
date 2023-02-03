@@ -1,5 +1,6 @@
 #program list buku
-
+import os
+os.system("cls")
 
 list_buku=[]
 while True:

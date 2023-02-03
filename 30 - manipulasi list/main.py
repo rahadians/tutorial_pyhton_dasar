@@ -1,5 +1,8 @@
 ##Operasi
 
+import os
+os.system("cls")
+
 #index kalau dari kiri ke kanan dimulai dari 0 - dst
 #index kalau dari kanan ke kiri dimulai dari -1,-2, dst
 

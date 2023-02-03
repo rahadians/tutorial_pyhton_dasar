@@ -1,4 +1,6 @@
 #Opoerator dictionary
+import os
+os.system("cls")
 
 data_dict={
     "cup" :"Ucup surucup",

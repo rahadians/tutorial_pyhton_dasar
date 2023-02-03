@@ -1,3 +1,6 @@
+import os
+os.system("cls")
+
 data_0 =[1,2]
 data_1=[3,4]
 

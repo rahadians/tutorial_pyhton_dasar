@@ -1,5 +1,8 @@
 ## Teknik menduplikat list
 
+import os
+os.system("cls")
+
 data_orang=["Ucup","Otong","Dudung"]
 print(f"data_orang_lama = {data_orang}")
 

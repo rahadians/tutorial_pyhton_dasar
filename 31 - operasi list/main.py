@@ -1,3 +1,6 @@
+import os
+os.system("cls")
+
 data_angka=[5,6,9,8,5,1,6,7,6,0,5,5]
 
 print(f"data angka={data_angka}")
