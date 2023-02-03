@@ -1,0 +1,1 @@
+print(f"Hai Saya ucup")
