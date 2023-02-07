@@ -1,8 +1,9 @@
 '''membuat module'''
 
 
-# cara lebih elegan untuk import
+# cara lebih elegan untuk import dan mengambil yang diperlukan saja
 ## cara 1 mengambil sebagian
+## ini cara direkomendasikan
 from matematika import tambah,kali,pangkat
 
 

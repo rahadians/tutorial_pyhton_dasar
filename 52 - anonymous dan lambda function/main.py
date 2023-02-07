@@ -74,6 +74,7 @@ print(f"hasil data angka baru filter angka ganjil lambda= {data_genap}")
 def pangkat(angka,n):
     hasil=angka**n
     return hasil
+
 data_hasil=pangkat(5,2)
 print(f"Fungsi biasa = {data_hasil}")
 
